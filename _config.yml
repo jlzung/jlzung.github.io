@@ -21,7 +21,7 @@ repository               : "jlzung/jlzung.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "website-photo.png"
   name             : "Jessica Zung"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Scientist, Zuckerman Institute, Columbia University"
