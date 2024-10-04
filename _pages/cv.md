@@ -9,56 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+### Current positions
+* Kanzer Postdoctoral Fellow, Zuckerman Mind Brain Behavior Institute, Columbia University
+* Postdoctoral Associate, Howard Hughes Medical Institute
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### Education
+* Ph.D. in Ecology, Evolutionary Biology, and Neuroscience, Princeton University
+  * Advisor: Dr. Carolyn S. McBride
+* Honours B.Sc., University of Toronto
+  * Double Specialist: Ecology & Evolutionary Biology, Physiology
+  * Minor: Ancient Greek
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Selected awards
+* Alan Kanzer Zuckerman Institute Postdoctoral Fellowship, Columbia University
+* Centennial Fellowship, Princeton University
+* Postgraduate Scholarship (Doctoral), Natural Sciences and Engineering Research Council of Canada (NSERC)
