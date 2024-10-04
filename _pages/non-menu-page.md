@@ -1,16 +1,12 @@
 ---
-permalink: /non-menu-page/
-title: "Page not in menu"
+permalink: /template/
+title: "Template"
 author_profile: true
 redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
+  - "/template.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+This is a blank template.
 
 Heading 1
-======
-
-Heading 2
 ======
