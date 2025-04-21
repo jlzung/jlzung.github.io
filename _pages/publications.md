@@ -15,7 +15,7 @@ redirect_from:
 
 ### Published work
 
-* **Zung JL**, McBride CS. (2025) Sebaceous origins of human odor. Current Biology, *in press*
+* **Zung JL**, McBride CS. (2025) [Sebaceous origins of human odor](https://authors.elsevier.com/a/1kzR93QW8SA2AP). Current Biology, 35:R303-R313
 
 * Metz HC, **Zung JL**, McBride CS. (2023) [Quantifying *Aedes aegypti* host odor preference using a two-port olfactometer](http://cshprotocols.cshlp.org/content/early/2023/01/19/pdb.top107661.full.pdf). Cold Spring Harbor Protocols pdb.top107661 [[Protocol](http://cshprotocols.cshlp.org/content/early/2023/01/19/pdb.prot108089.full.pdf)]
 
