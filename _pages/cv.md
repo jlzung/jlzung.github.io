@@ -11,6 +11,7 @@ redirect_from:
 
 ### Current positions
 * Kanzer Postdoctoral Fellow, Zuckerman Mind Brain Behavior Institute, Columbia University
+* Junior Fellow, Simons Society of Fellows
 
 ### Education
 * Ph.D. in Ecology, Evolutionary Biology, and Neuroscience, Princeton University
