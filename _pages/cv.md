@@ -9,9 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-### Current positions
-* Kanzer Postdoctoral Fellow, Zuckerman Mind Brain Behavior Institute, Columbia University
-* Junior Fellow, Simons Society of Fellows
+### Current position
+* Postdoctoral Research Scientist, Zuckerman Mind Brain Behavior Institute, Columbia University
 
 ### Education
 * Ph.D. in Ecology, Evolutionary Biology, and Neuroscience, Princeton University
@@ -21,7 +20,8 @@ redirect_from:
   * Minor: Ancient Greek
 
 ### Selected awards
+* Burroughs Wellcome Fund Postdoctoral Enrichment Program - Revson Scholar
 * Junior Fellowship, Simons Society of Fellows
 * Alan Kanzer Zuckerman Institute Postdoctoral Fellowship, Columbia University
-* Centennial Fellowship, Princeton University
 * Postgraduate Scholarship (Doctoral), Natural Sciences and Engineering Research Council of Canada (NSERC)
+* Centennial Fellowship, Princeton University
